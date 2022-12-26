@@ -1,0 +1,20 @@
+.N1, .N5 {
+    background-color: rgba(250, 0, 0, 0.5);
+    font-size: 32px;   
+}
+
+#N2 {
+    color: blue;
+    font-size: 64px;
+}
+
+.N3 {
+    background-color: rgba(250, 0, 0, 0.5);
+    font-size: 48px;
+}
+
+#N4 {
+    background-color: rgba(0, 250, 0, 0.5);
+    font-size: 48px;
+    font-weight: 700;
+}
